@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #F8A74E;
+  display: flex;
+  flex-direction: column;
+  padding: 2vh 2vw;
+}
+
+main {
+  padding: 0 5vw;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
